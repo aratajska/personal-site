@@ -1,6 +1,30 @@
+# Test 1
+## Test 2
+### Test 3
+
+
+- Some things I like
+- dogs 
+- cats
+- hot dogs
+
+1. chicken
+2. sheep
+
+![jack-russel](http://cdn3-www.dogtime.com/assets/uploads/gallery/jack-russel-terrier-dog-breed-pictures/2-face.jpg)
+
+[this is CNN](http://www.cnn.com)
+
+
+
+**jakub**
+
+*hello* welcome to my new **WEBSITE**
+
+
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/aratajska/personal-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Cats can use the [editor on GitHub](https://github.com/aratajska/personal-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
